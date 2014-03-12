@@ -1,0 +1,11 @@
+golang-goacceptlanguageparser (1.0.0-1) precise; urgency=low
+
+  * Move packaging from native to external quilt.
+
+ -- Lance Cooper <lance@struktur.de>  Wed, 12 Mar 2014 12:00:02 -0500
+
+golang-goacceptlanguageparser (0.0.1) precise; urgency=low
+
+  * Initial debianized release.
+
+ -- Lance Cooper <lance@struktur.de>  Tue, 11 Feb 2014 16:00:34 -0600

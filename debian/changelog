@@ -1,3 +1,9 @@
+golang-goacceptlanguageparser (1.0.0-2) precise; urgency=low
+
+  * Corrected absolute package path.
+
+ -- Lance Cooper <lance@struktur.de>  Thu, 13 Mar 2014 15:21:38 -0500
+
 golang-goacceptlanguageparser (1.0.0-1) precise; urgency=low
 
   * Move packaging from native to external quilt.

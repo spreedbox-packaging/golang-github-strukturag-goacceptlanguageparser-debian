@@ -11,7 +11,7 @@
 
 # GOPKG is the upstream path which you would normally "go get".
 # Using it allows us to build applications without patching locations.
-GOPKG := golang.struktur.de/goacceptlanguageparser
+GOPKG := github.com/strukturag/goacceptlanguageparser
 
 # Temporary working directory to which the source will be copied, then
 # compiled.

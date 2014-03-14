@@ -1,4 +1,4 @@
-golang-goacceptlanguageparser (1.0.0-3) UNRELEASED; urgency=low
+golang-goacceptlanguageparser (1.0.0-3) precise; urgency=low
 
   * Rebuild against fixed dh-golang.
 

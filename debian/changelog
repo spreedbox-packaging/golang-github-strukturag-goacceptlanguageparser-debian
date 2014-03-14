@@ -1,3 +1,9 @@
+golang-goacceptlanguageparser (1.0.0-3) UNRELEASED; urgency=low
+
+  * Rebuild against fixed dh-golang.
+
+ -- Lance Cooper <lance@struktur.de>  Fri, 14 Mar 2014 10:28:21 -0500
+
 golang-goacceptlanguageparser (1.0.0-2) precise; urgency=low
 
   * Corrected absolute package path.

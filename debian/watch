@@ -1,4 +1,3 @@
 version=3
-
-# Tagging format isn't actually accurate, so make an x.x.xx inference.
-http://githubredir.debian.net/github/strukturag/goacceptlanguageparser /github/strukturag/goacceptlanguageparser/goacceptlanguageparser_v(\d)(\d)(\d+).tar.gz
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/goacceptlanguageparser-$1\.tar\.gz/ \
+  https://github.com/strukturag/goacceptlanguageparser/tags .*/goacceptlanguageparser_v(\d)(\d)(\d+)\.tar\.gz

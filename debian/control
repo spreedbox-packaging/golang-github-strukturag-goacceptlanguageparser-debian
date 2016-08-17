@@ -1,7 +1,10 @@
 Source: golang-goacceptlanguageparser
 Section: devel
 Priority: extra
-Maintainer: Simon Eisenmann <simon@struktur.de>
+Maintainer: struktur AG <opensource@struktur.de>
+Uploaders:
+ Joachim Bauch <bauch@struktur.de>,
+ Simon Eisenmann <simon@struktur.de>
 Build-Depends: debhelper (>= 8.0.0),
                dh-golang,
                golang-go (>= 1.1)
